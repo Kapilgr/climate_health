@@ -10,7 +10,7 @@ This comprehensive dataset tracks the relationship between climate events and he
 **Total Features**: 29 columns
 
 # Quick Start
-- In jupyter notebook file
+- In jupyter notebook file:
 ```bash
  import pandas as pd
  df = pd.read_csv('climate_health.csv')
@@ -96,15 +96,3 @@ Data follows realistic statistical distributions and correlations observed in cl
 3. **Machine Learning**: Build predictive models for health outcomes based on climate indicators
 4. **Time Series Forecasting**: Forecast future health risks under different climate scenarios
 5. **Visualization**: Create interactive dashboards showing climate-health relationships
-
-#  License
-This dataset is released under **CC0: Public Domain**.
-
-#  Acknowledgments
-This dataset was created to support research on climate change impacts on public health and to facilitate data-driven policy decisions.
-
-# Contact
-For questions or feedback about this dataset,  create an issue in the project repository.
-
-**Last Updated**: October 2025  
-**Data Quality**: 100% complete, 0% missing values
