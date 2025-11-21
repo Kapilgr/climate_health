@@ -13,7 +13,7 @@ This comprehensive dataset tracks the relationship between climate events and he
 - In jupyter notebook file:
 ```bash
  import pandas as pd
- df = pd.read_csv('climate_health.csv')
+ df = pd.read_csv('original_dataset.csv')
  print(df.info())
 ```
 
